@@ -38,7 +38,7 @@ Monitor your eyes data to your smartphones
 *Medical Tech / Assistive tech for the disabled
 Explore ways to help assist people with disability to help them use their eyes as a tool.
 
-Inspiration
+*Inspiration
 [John Underkoffler - Pointing to the future of UI](https://www.ted.com/talks/john_underkoffler_drive_3d_data_with_a_gesture)
 [Nicholas Negroponte - A 30-year history of the future](https://www.ted.com/talks/nicholas_negroponte_a_30_year_history_of_the_future)
 
