@@ -23,7 +23,7 @@ Reference
 [Chris Milk - How virtual reality can create the ultimate empathy machine](https://www.ted.com/talks/chris_milk_how_virtual_reality_can_create_the_ultimate_empathy_machine)
 
 * Games
-* 
+
 To explore new ways to tell stories and narrate them to the audience. 
 Possibilities of that is to create seamless storylines that can be controlled by users eyes movement.
 Immersive storytelling
