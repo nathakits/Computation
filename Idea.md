@@ -9,7 +9,7 @@
 
 #### Projects
 * Film/Documentary/Animation
-* 
+
 To explore new ways to tell stories and narrate them to the audience. 
 Possibilities of that is to create seamless storylines that can be controlled by users eyes movement.
 Immersive storytelling
