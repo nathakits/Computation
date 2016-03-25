@@ -1,6 +1,6 @@
 #IDEA
 
-## Interests
+#### Interests
 * Games
 * Films/Animation
 * Motion Graphics
