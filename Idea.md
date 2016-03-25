@@ -8,7 +8,7 @@
 * Medical Tech
 
 #### Projects
-* Film/Documentary/Animation
+* **Film/Documentary/Animation**
 
 To explore new ways to tell stories and narrate them to the audience. 
 Possibilities of that is to create seamless storylines that can be controlled by users eyes movement.
@@ -23,14 +23,14 @@ Reference
 
 [Chris Milk - How virtual reality can create the ultimate empathy machine](https://www.ted.com/talks/chris_milk_how_virtual_reality_can_create_the_ultimate_empathy_machine)
 
-* Games
+* **Games**
 
 To explore new ways to tell stories and narrate them to the audience. 
 Possibilities of that is to create seamless storylines that can be controlled by users eyes movement.
 Immersive storytelling
 Focus and rendering
 
-* Motion Graphics w/ computational art (Processing)
+* **Motion Graphics w/ computational art (Processing)**
 
 To explore and play with users eye tracking movements with CGI and computational art.
 To create a more interactive medium rich with visual effects.
@@ -39,11 +39,11 @@ Reference
 
 [Processing](https://processing.org)
 
-* IoT
+* **IoT**
 
 Monitor your eyes data to your smartphones
 
-* Medical Tech / Assistive tech for the disabled
+* **Medical Tech / Assistive tech for the disabled**
 
 Explore ways to help assist people with disability to help them use their eyes as a tool.
 
