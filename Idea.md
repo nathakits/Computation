@@ -30,17 +30,21 @@ Possibilities of that is to create seamless storylines that can be controlled by
 Immersive storytelling
 Focus and rendering
 
-*Motion Graphics w/ computational art (Processing)
+* Motion Graphics w/ computational art (Processing)
+
 To explore and play with users eye tracking movements with CGI and computational art.
 To create a more interactive medium rich with visual effects.
 
 Reference
+
 [Processing](https://processing.org)
 
-*IoT
+* IoT
+
 Monitor your eyes data to your smartphones
 
-*Medical Tech / Assistive tech for the disabled
+* Medical Tech / Assistive tech for the disabled
+
 Explore ways to help assist people with disability to help them use their eyes as a tool.
 
 #### Inspiration
