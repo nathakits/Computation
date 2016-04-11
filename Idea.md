@@ -26,14 +26,10 @@ Focus and rendering
 * Agents in the story could be aware of the gaze of the user
 
 Reference
-
-[Oculus Story Studio](https://storystudio.oculus.com/en-us/)
-
-[Oculus Story Studio](https://vimeo.com/117849907)
-
-[Chris Milk - How virtual reality can create the ultimate empathy machine](https://www.ted.com/talks/chris_milk_how_virtual_reality_can_create_the_ultimate_empathy_machine)
-
-[Gaze behavior interactive storytelling application](https://www.researchgate.net/publication/221052464_Discovering_eye_gaze_behavior_during_human-agent_conversation_in_an_interactive_storytelling_application)
+* [Oculus Story Studio](https://storystudio.oculus.com/en-us/)
+* [Oculus Story Studio](https://vimeo.com/117849907)
+* [Chris Milk - How virtual reality can create the ultimate empathy machine](https://www.ted.com/talks/chris_milk_how_virtual_reality_can_create_the_ultimate_empathy_machine)
+* [Gaze behavior interactive storytelling application](https://www.researchgate.net/publication/221052464_Discovering_eye_gaze_behavior_during_human-agent_conversation_in_an_interactive_storytelling_application)
 
 * **Games**
 
@@ -74,7 +70,6 @@ To be able to compute the relationship between objects
      -temperature
 
 #### Inspiration
-[John Underkoffler - Pointing to the future of UI](https://www.ted.com/talks/john_underkoffler_drive_3d_data_with_a_gesture)
-
-[Nicholas Negroponte - A 30-year history of the future](https://www.ted.com/talks/nicholas_negroponte_a_30_year_history_of_the_future)
+* [John Underkoffler - Pointing to the future of UI](https://www.ted.com/talks/john_underkoffler_drive_3d_data_with_a_gesture)
+* [Nicholas Negroponte - A 30-year history of the future](https://www.ted.com/talks/nicholas_negroponte_a_30_year_history_of_the_future)
 
