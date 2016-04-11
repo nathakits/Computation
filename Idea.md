@@ -62,6 +62,17 @@ Monitor your eyes data to your smartphones
 
 Explore ways to help assist people with disability to help them use their eyes as a tool.
 
+* **Avatar**
+
+Realtime remote control of a virtual machine head from head and gaze tracking
+
+* **Smart Mask**
+
+Use gaze tracking to lock on and identify objects
+To be able to compute the relationship between objects
+     -distance
+     -temperature
+
 #### Inspiration
 [John Underkoffler - Pointing to the future of UI](https://www.ted.com/talks/john_underkoffler_drive_3d_data_with_a_gesture)
 
