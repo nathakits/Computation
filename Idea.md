@@ -33,7 +33,7 @@ Reference
 
 [Chris Milk - How virtual reality can create the ultimate empathy machine](https://www.ted.com/talks/chris_milk_how_virtual_reality_can_create_the_ultimate_empathy_machine)
 
-[](https://www.researchgate.net/publication/221052464_Discovering_eye_gaze_behavior_during_human-agent_conversation_in_an_interactive_storytelling_application)
+[Gaze behavior interactive storytelling application](https://www.researchgate.net/publication/221052464_Discovering_eye_gaze_behavior_during_human-agent_conversation_in_an_interactive_storytelling_application)
 
 * **Games**
 
@@ -41,6 +41,9 @@ To explore new ways to tell stories and narrate them to the user.
 Possibilities of that is to create seamless storylines that can be controlled by users eyes movement.
 Immersive storytelling
 Focus and rendering
+
+*Interactive narrative driven VR and gaze tracking in game story and UI
+     - gaze and tasks activates narration and vice versa
 
 * **Motion Graphics w/ computational art (Processing)**
 
