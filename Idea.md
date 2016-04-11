@@ -10,10 +10,20 @@
 #### Projects
 * **Film/Documentary/Animation**
 
-To explore new ways to tell stories and narrate them to the audience. 
+To explore new ways to tell stories and narrate them to the user. 
 Possibilities of that is to create seamless storylines that can be controlled by users eyes movement.
 Immersive storytelling
 Focus and rendering
+
+* New grammar of storyleiing required
+     - social cues
+     - sound
+* Multiple timelines/outcomes depending on the user subconscious gaze
+* Gaxe duration and area can trigger certain elements in the story
+* Or even multiple gazes from 1 user or many user can triger certain elements in the story
+* 1st person vs 3rd person perspective
+* Blurring out portions of the scene - create sense of depth
+* Agents in the story could be aware of the gaze of the user
 
 Reference
 
@@ -23,9 +33,11 @@ Reference
 
 [Chris Milk - How virtual reality can create the ultimate empathy machine](https://www.ted.com/talks/chris_milk_how_virtual_reality_can_create_the_ultimate_empathy_machine)
 
+[](https://www.researchgate.net/publication/221052464_Discovering_eye_gaze_behavior_during_human-agent_conversation_in_an_interactive_storytelling_application)
+
 * **Games**
 
-To explore new ways to tell stories and narrate them to the audience. 
+To explore new ways to tell stories and narrate them to the user. 
 Possibilities of that is to create seamless storylines that can be controlled by users eyes movement.
 Immersive storytelling
 Focus and rendering
