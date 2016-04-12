@@ -24,6 +24,7 @@ Focus and rendering
 * 1st person vs 3rd person perspective
 * Blurring out portions of the scene - create sense of depth
 * Agents in the story could be aware of the gaze of the user
+* THe director create rules that guide the user along but allows them to choose which rules to follow/break/ignore
 
 Reference
 * [Oculus Story Studio](https://storystudio.oculus.com/en-us/)
