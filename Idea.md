@@ -19,7 +19,7 @@ Focus and rendering
      - social cues
      - sound
 * Multiple timelines/outcomes depending on the user subconscious gaze
-* Gaxe duration and area can trigger certain elements in the story
+* Gaze duration and area can trigger certain elements in the story
 * Or even multiple gazes from 1 user or many user can triger certain elements in the story
 * 1st person vs 3rd person perspective
 * Blurring out portions of the scene - create sense of depth
@@ -50,6 +50,8 @@ To create a more interactive medium rich with visual effects.
 Reference
 
 [Processing](https://processing.org)
+[Shiffman P.JS Tutorial](http://shiffman.net/)
+[ZeroMQ/JSMQ](https://github.com/ZeroMQ/JSMQ)
 
 * **IoT**
 
