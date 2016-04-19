@@ -48,10 +48,9 @@ To explore and play with users eye tracking movements with CGI and computational
 To create a more interactive medium rich with visual effects.
 
 Reference
-
-[Processing](https://processing.org)
-[Shiffman P.JS Tutorial](http://shiffman.net/)
-[ZeroMQ/JSMQ](https://github.com/ZeroMQ/JSMQ)
+* [Processing](https://processing.org)
+* [Shiffman P.JS Tutorial](http://shiffman.net/)
+* [ZeroMQ/JSMQ](https://github.com/ZeroMQ/JSMQ)
 
 * **IoT**
 
